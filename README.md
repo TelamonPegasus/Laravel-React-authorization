@@ -3,12 +3,12 @@ Repo on 'Setting up Laravel and React.js the right way (Using user authenticatio
 
 1. Clone the repo
 ```
-git clone https://github.com/000kelvin/laravel-react-authentication.git
+git clone https://github.com/TelamonPegasus/Laravel-React-authorization.git
 ```
 
 2. Enter the project folder
 ```
-cd laravel-react-authentication
+cd Laravel-React-authorization
 ```
 
 3. Install javascript dependencies and packages
